@@ -17,6 +17,6 @@ In _Understanding by Design_ by Grant Wiggins and Jay McTighe, the concept of un
 
 I would also like to mention that the revised Bloom's Taxonomy also places creation of new ideas/solutions (synthesis) at the pinnacle of learning.
 
-! ![Revised Bloom's Taxonomy](assets/blooms-revised-taxonomy.png)
+! [Revised Bloom's Taxonomy](assets/blooms-revised-taxonomy.jpg)
 
 The next step in our program is to deconstruct this definition into programmatic steps. What I mean by programmatic in this context is that the steps derived from this definition should be
