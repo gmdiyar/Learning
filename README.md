@@ -27,3 +27,7 @@ The structure is as follow:
 3. Test the student to ensure they are ready for the next higher-order thinking step (ex. test memorization before learning comprehension.)
 
 This program can then be iterated until the student is at the final step, where he or she is given real problems to solve by applying all the previously learned knowledge.
+
+# Knowledge Space Theory Implementation
+### We will implement KST in order to determine the most optimal next lesson to teach.
+
